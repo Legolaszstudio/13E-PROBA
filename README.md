@@ -18,4 +18,4 @@ for (let i = 1; i <= 10; i++) {
 
 Ez a stage után van.
 
-# Ezt a modify branchen csináltam
+# Ezt a modify branchen csináltam - És mergeltem
