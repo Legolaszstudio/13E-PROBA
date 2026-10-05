@@ -4,3 +4,5 @@ def divide(a, b):
 if __name__ == "__main__":
     print(divide(10, 2))
     print(divide(5, 2))
+    print(divide(5, 0))
+
